@@ -1,7 +1,7 @@
 {
     "redirects": [
         {
-            "source": "/:path*",
+            "source": "/(.*)",
             "destination": "https://shopanagenesis.com/",
             "permanent": true
         }
